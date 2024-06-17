@@ -3,4 +3,5 @@ I'm Aaron, I'm a highschool programmer that's looking to improve their problem-s
 
 ## Skills
 - Python
-- Javascript (sort of)
+- Java
+- HTML/CSS/Javascript
