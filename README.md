@@ -1,5 +1,5 @@
 # Hello!
-I'm Aaron, I'm a highschool programmer that's looking to improve their problem-solving skills
+I'm Aaron, I'm a Computer Science student at Northeastern University that's looking to improve their problem-solving skills
 
 ## Skills
 - Python
